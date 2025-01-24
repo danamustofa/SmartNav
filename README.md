@@ -1,4 +1,4 @@
-# PID Controlled Robot with Obstacle Avoidance
+# SmartNav
 
 This project implements a PID-controlled robot that uses an ultrasonic sensor to detect obstacles and adjust its movements accordingly. The robot is equipped with two DC motors driven by an L298N motor driver and an HC-SR04 ultrasonic sensor for distance measurement.
 
